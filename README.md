@@ -22,7 +22,7 @@ Aplikacja pozwala użytkownikom wyszukiwać przepisy kulinarne, dodawać je do u
 
 1. **Sklonuj repozytorium**  
 ```bash
-git clone https://github.com/TWOJ_USERNAME/recipe-finder.git
+git clone https://github.com/bartoszviola/recipe-finder.git
 cd recipe-finder
 ```
 2. **Zainstaluj zależności**
