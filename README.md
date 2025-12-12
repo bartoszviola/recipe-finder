@@ -52,7 +52,7 @@ http://localhost:5173
 ## 📸 Screenshots
 
 **Strona główna**  
-![Home Page](docs/screenshots/home.png)  
+![Home Page](docs/screenshots/logo.png)  
 
 **Szczegóły przepisu**  
 ![Recipe Details](docs/screenshots/details.png)  
