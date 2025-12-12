@@ -92,9 +92,3 @@ http://localhost:5173
 
 - Instrukcje niektórych przepisów mogą być puste w Spoonacular API  
 - Ograniczone do 16 przepisów na wyszukiwanie  
-
----
-
-## 🔗 Live Demo
-
-[https://TWOJ_GITHUB_PAGES_LINK](https://TWOJ_GITHUB_PAGES_LINK)
