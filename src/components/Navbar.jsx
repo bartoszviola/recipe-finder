@@ -33,7 +33,6 @@ function Navbar() {
         <div className="mobile-menu">
           <Link to="/" onClick={() => setOpen(false)}>Strona główna</Link>
           <Link to="/favorites" onClick={() => setOpen(false)}>Ulubione</Link>
-          <Link to="/about" onClick={() => setOpen(false)}>O aplikacji</Link>
 
         </div>
       )}
